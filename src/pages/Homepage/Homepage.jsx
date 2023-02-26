@@ -19,14 +19,7 @@ const Homepage = () => {
         </p>
       </HomepageSection>
       <HomepageSection theme='dark' imageSrc='https://picsum.photos/751/400'>
-        <h2 className={styles.heading}>Environment modeling</h2>
-        <h2 className={styles.subHeading}>presentation</h2>
-        <p className='lead'>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi
-          perspiciatis, voluptates fugiat ipsum velit consequatur et assumenda.
-          Maxime, facere! Optio dicta, quod aspernatur delectus enim corporis
-          quasi veritatis quos eos?
-        </p>
+        <h3>Ovo je druga sekcija</h3>
       </HomepageSection>
     </>
   );

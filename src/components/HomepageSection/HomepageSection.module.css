@@ -4,6 +4,7 @@
 
 section {
     color: black;
+    background-color: var(--white-smoke);
 }
 
 .text {
@@ -13,5 +14,6 @@ section {
 
 .dark {
     background: var(--dark-bg);
-    color: white !important;
+    color: white;
+    flex-direction: row-reverse !important;
 }
