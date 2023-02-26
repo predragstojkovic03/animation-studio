@@ -14,8 +14,6 @@ const Hero = () => {
         </p>
         <button className={styles.btn}>Explore</button>
       </div>
-    <div className={`container ${styles.hero}`}>
-      <div className={styles.content}></div
     </div>
   );
 };
