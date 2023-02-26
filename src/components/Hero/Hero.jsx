@@ -4,7 +4,7 @@ import styles from './Hero.module.css';
 
 const Hero = () => {
   return (
-    <div className='container'>
+    <div className={`container ${styles.hero}`}>
       <div className={styles.content}></div>
     </div>
   );
