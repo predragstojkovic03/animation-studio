@@ -1,0 +1,17 @@
+.image {
+    max-width: 720px;
+}
+
+section {
+    color: black;
+}
+
+.text {
+    color: inherit;
+    max-width: 650px;
+}
+
+.dark {
+    background: var(--dark-bg);
+    color: white !important;
+}
