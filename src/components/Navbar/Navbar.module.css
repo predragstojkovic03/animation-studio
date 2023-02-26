@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 150px;
+
+    transition: all 250ms ease;
+}
+
+.logo {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    font-size: 2rem;
+}
+
+.menuToggle {
+    background: transparent;
+    border: none;
+    color: white;
+    padding: 0;
+    cursor: pointer;
+    font-size: 2rem;
+}
+
+.scrolled {
+    height: 80px;
+    background: rgba(0, 0, 0, 0.5);
+}
