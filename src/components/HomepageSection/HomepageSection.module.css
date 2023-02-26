@@ -1,0 +1,19 @@
+.image {
+    max-width: 720px;
+}
+
+section {
+    color: black;
+    background-color: var(--white-smoke);
+}
+
+.text {
+    color: inherit;
+    max-width: 650px;
+}
+
+.dark {
+    background: var(--dark-bg);
+    color: white;
+    flex-direction: row-reverse !important;
+}
